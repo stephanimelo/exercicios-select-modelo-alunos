@@ -14,7 +14,7 @@ Script completo de criação do banco, tabelas e dados: [exercicios_select.sql](
 
 **A2) Queremos selecionar todos os nomes de disciplina, cujo a nota mínima seja maior que 5 (cinco).**
 
-<img src="A2) Nomes de disciplina com nota minima maior que 5.PNG" width="400"/>
+<img src="A2) Nomes de disciplina com nota mínima maior que 5.PNG" width="400"/>
 
 **A3) Queremos selecionar todas disciplinas que tenham nota mínima entre 3 (três) e 5 (cinco).**
 
